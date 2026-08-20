@@ -1,0 +1,14 @@
+atlas-smilies==1.0.0
+scanpy==1.12.3
+muon==0.1.9
+anndata==0.13.2
+mudata==0.4.1
+palantir==1.4.5
+scvelo==0.3.4
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+nbclient
+nbformat
