@@ -18,9 +18,9 @@ Each tutorial folder follows the same layout:
 
 ```
 <tool>/
-├── README.md          # overview, what's reproduced, key results
+├── README.md           # overview, what's reproduced, key results
 ├── notebooks/          # my executed recreation(s), committed with outputs
-├── reference/           # unmodified official tutorial notebook(s), for comparison / full-scale reproduction
+├── reference/          # unmodified official tutorial notebook(s), for comparison / full-scale reproduction
 ├── figures/            # exported plots from the executed notebook(s)
 ├── environment.yml     # conda environment
 └── requirements.txt    # pip requirements
