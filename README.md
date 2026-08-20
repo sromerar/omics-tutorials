@@ -16,7 +16,7 @@ More entries will be added here as they're worked through.
 
 Each tutorial folder follows the same layout:
 
-\`\`\`
+```
 <tool>/
 ├── README.md          # overview, what's reproduced, key results
 ├── notebooks/          # my executed recreation(s), committed with outputs
@@ -24,4 +24,4 @@ Each tutorial folder follows the same layout:
 ├── figures/            # exported plots from the executed notebook(s)
 ├── environment.yml     # conda environment
 └── requirements.txt    # pip requirements
-\`\`\`
+```
