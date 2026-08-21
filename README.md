@@ -8,7 +8,7 @@ Each folder contains the reproduction of a bioinformatics tutorial using a Jupyt
 
 | Tool | Domain | Status |
 |---|---|---|
-| [`atlas/`](atlas) | Multi-omic (scRNA-seq + scATAC-seq) single-cell trajectory inference via Weighted Nearest Neighbor graphs ([paper](https://doi.org/10.64898/2026.05.23.727175), [docs](https://atlas-smilies.readthedocs.io/en/latest/)) | ✅ Complete |
+| [`atlas/`](atlas) | Multi-omic (scRNA-seq + scATAC-seq) single-cell trajectory inference via Weighted Nearest Neighbor graphs ([paper](https://doi.org/10.64898/2026.05.23.727175), [docs](https://atlas-smilies.readthedocs.io/en/latest/)) | In progress |
 
 More entries will be added here as they're worked through.
 
