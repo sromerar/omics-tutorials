@@ -22,6 +22,5 @@ Each tutorial folder follows the same layout:
 ├── notebooks/          # my executed recreation(s), committed with outputs
 ├── reference/          # unmodified official tutorial notebook(s), for comparison 
 ├── figures/            # exported plots from the executed notebook(s)
-├── environment.yml     # conda environment
 └── requirements.txt    # pip requirements
 ```
