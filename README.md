@@ -2,7 +2,7 @@
 
 Reproducible, annotated tutorials in single-cell and multi-omics analysis for learning, reference, and method development.
 
-Each subfolder recreates a published tool's official tutorial(s) end-to-end: real API calls, real (or principled synthetic, when the original data isn't practically redistributable) data, executed notebooks committed with real outputs as both a personal reference and a demonstration of hands-on competency with the workflow.
+Each folder contains the reproduction of a bioinformatics tutorial using a Jupyter notebook. I run the analysis myself, add explanations throughout, and save the completed notebook with its outputs.
 
 ## Tutorials
 
